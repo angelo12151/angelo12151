@@ -36,6 +36,4 @@ Sono uno studente magistrale in **Matematica Applicata e Supporto alla Finanza**
 - **LinkedIn**: [linkedin.com/in/angelolapacciana](https://www.linkedin.com/in/angelolapacciana) 
 - **Email**: [lapaccianaangelo@yahoo.com](mailto:lapaccianaangelo@yahoo.com)
 
----
 
-*"Il rigore della matematica al servizio dei dati."*
