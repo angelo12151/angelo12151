@@ -26,7 +26,7 @@ Sono uno studente magistrale in **Matematica Applicata e Supporto alla Finanza**
 
 * **[Analisi Esplorativa dei Dati (EDA) - Dataset Wine](https://github.com/angelo12151/Data-Science-Wine-Analysis-R)**: Analisi statistica e identificazione di pattern su dati reali tramite **R**.
 * **[Algoritmi di AI da zero](https://github.com/angelo12151/AI-Algorithms-Matlab)**: Implementazione di Perceptron e Reti Neurali con ottimizzazione dei parametri in **Matlab**.
-* **[Modellazione 3D e Image Processing](link-qui)**: Sviluppo di algoritmi per il rendering e il filtraggio digitale delle immagini.
+* **[Modellazione 3D e Image Processing](https://github.com/angelo12151/3D-Modeling-Digital-Image-Processing)**: Sviluppo di algoritmi per il rendering e il filtraggio digitale delle immagini.
 * **[Tesi Triennale - Modello PLSA](https://github.com/angelo12151/PLSA-Probabilistic-Latent-Semantic-Analysis-Thesis)**: Studio di tecniche probabilistiche per il riconoscimento di argomenti latenti.
 
 ---
